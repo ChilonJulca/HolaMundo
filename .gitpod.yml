@@ -3,7 +3,7 @@ tasks:
 image:
 file: .gitpod.Dockerfile
 vscode:
-extensions:
+  extensions:
 - jebbs.plantuml
 - contextmapper.context-mapper-vscode-extension
 - vscjava.vscode-java-pack
